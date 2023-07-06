@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown Damz betty
+su betty
